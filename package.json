@@ -1,0 +1,24 @@
+{
+  "name": "coffeescript-code-coverage",
+  "version": "0.0.0",
+  "main": " ",
+  "scripts": {
+    "test": "mocha",
+    "cover" : "./coverage.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/droppedonjapan/coffeescript-code-coverage.git"
+  },
+  "author": "Albert Engelbrecht <dropped.on.japan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/droppedonjapan/coffeescript-code-coverage/issues"
+  },
+  "homepage": "https://github.com/droppedonjapan/coffeescript-code-coverage",
+  "devDependencies": {
+    "mocha": "^1.17",
+    "coffee-script": "^1.7.1"
+  },
+  "config": {}
+}
